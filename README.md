@@ -2,4 +2,4 @@
 
 #editing the file
 
-its a markdown file in this respiratory.
+its a markdown file in this respitory.
